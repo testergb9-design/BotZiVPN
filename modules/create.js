@@ -64,7 +64,12 @@ if (!/^[a-zA-Z0-9-]+$/.test(username)) {
 
       const msg = `${d.message}
 
-Terimakasih Sudah Menggunakan Layanan Kami ✨
+PENTING!!!⚠️⚠️
+
+(1 perangkat). 
+"Login akun UDP-ZIVPN di berbeda perangkat melebihi multi-login limit akan mengakibatkan layanan berujung ke pemblokiran permanen."
+
+⛔(Layanan 1 perangkat) Gunakan data akun dengan benar agar layanan tetap aman‼️‼️
 `;
 
         return resolve(msg);
